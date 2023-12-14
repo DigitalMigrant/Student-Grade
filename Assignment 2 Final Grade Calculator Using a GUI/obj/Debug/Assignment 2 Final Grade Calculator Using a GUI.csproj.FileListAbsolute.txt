@@ -1,0 +1,10 @@
+C:\Users\Rosel\source\repos\Final Grade Calculator\Assignment 2 Final Grade Calculator Using a GUI\bin\Debug\Assignment 2 Final Grade Calculator Using a GUI.exe.config
+C:\Users\Rosel\source\repos\Final Grade Calculator\Assignment 2 Final Grade Calculator Using a GUI\bin\Debug\Assignment 2 Final Grade Calculator Using a GUI.exe
+C:\Users\Rosel\source\repos\Final Grade Calculator\Assignment 2 Final Grade Calculator Using a GUI\bin\Debug\Assignment 2 Final Grade Calculator Using a GUI.pdb
+C:\Users\Rosel\source\repos\Final Grade Calculator\Assignment 2 Final Grade Calculator Using a GUI\obj\Debug\Assignment 2 Final Grade Calculator Using a GUI.csproj.AssemblyReference.cache
+C:\Users\Rosel\source\repos\Final Grade Calculator\Assignment 2 Final Grade Calculator Using a GUI\obj\Debug\Assignment_2_Final_Grade_Calculator_Using_a_GUI.Properties.Resources.resources
+C:\Users\Rosel\source\repos\Final Grade Calculator\Assignment 2 Final Grade Calculator Using a GUI\obj\Debug\Assignment 2 Final Grade Calculator Using a GUI.csproj.GenerateResource.cache
+C:\Users\Rosel\source\repos\Final Grade Calculator\Assignment 2 Final Grade Calculator Using a GUI\obj\Debug\Assignment 2 Final Grade Calculator Using a GUI.csproj.CoreCompileInputs.cache
+C:\Users\Rosel\source\repos\Final Grade Calculator\Assignment 2 Final Grade Calculator Using a GUI\obj\Debug\Assignment 2 Final Grade Calculator Using a GUI.exe
+C:\Users\Rosel\source\repos\Final Grade Calculator\Assignment 2 Final Grade Calculator Using a GUI\obj\Debug\Assignment 2 Final Grade Calculator Using a GUI.pdb
+C:\Users\Rosel\source\repos\Final Grade Calculator\Assignment 2 Final Grade Calculator Using a GUI\obj\Debug\Assignment_2_Final_Grade_Calculator_Using_a_GUI.gradeCalculator_form.resources
